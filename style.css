@@ -6,15 +6,22 @@ html{
   font-size: 16px;
 }
 body{
-    font-family: 'Roboto', sans-serif;
-    height: 100%;
+    font-family: 'Lato', sans-serif;
+    width: 95%;
+    height: 95%;
+    margin: auto;
+    margin-top: 1.5em;
+    box-shadow: 0 0 20px #A9A9A9;
+
+   
+
     
 }
 
 header{
   background-color:#499DF5;
   width: 100%;
-  height: auto
+  height: auto;
 }
 #icon{
   color: white;
@@ -72,15 +79,10 @@ article{
 }
 #adoption-link{
   margin-top: 3em;
-  
-  
   box-shadow: 0px 0 10px #499DF5;
   z-index: 50;
   text-align: end;
   padding: 2em;
-  
- 
-
 }
 a{
   text-decoration: none;
